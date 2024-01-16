@@ -1,4 +1,4 @@
-public class hello_0001 {
+public class Java_0001_hello {
     public static void main(String[]args) {
         System.out.print("Hello World");
     }
