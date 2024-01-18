@@ -31,5 +31,7 @@ public class Java_0005_BoardExamPercentageClaculator_Ex1 {
 
         float percentage = ((sub1 + sub2 + sub3 + sub4 + sub5)/(totalMarks*5)*100);
         System.out.println("Percentage: "+percentage+" %");
+
+        input.close();
     }
 }

@@ -64,5 +64,7 @@ public class Java_0004_TakingInput {
         System.out.print("Enter boolean: ");
         boolean bo = sai.nextBoolean();
         System.out.println(bo);
+
+        sai.close();
     }
 }
